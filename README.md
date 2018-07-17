@@ -20,7 +20,7 @@ This kernel highlights the edges of the image.
 The image has been greyscaled and grad biases have been added to amplify the visibility of the edges.
 
 
-EDA
+EDA on Datasets
 
 I have performed Exploratory Data Analysis on Stock Market and Zomato datasets.
 Graphs for visualization are included in the folders.

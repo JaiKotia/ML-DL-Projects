@@ -18,3 +18,9 @@ It takes an input image and converts it into an array.
 It then uses a matrix (kernel) that is multiplied across the array that represents the image (convolve2d).
 This kernel highlights the edges of the image.
 The image has been greyscaled and grad biases have been added to amplify the visibility of the edges.
+
+
+EDA
+
+I have performed Exploratory Data Analysis on Stock Market and Zomato datasets.
+Graphs for visualization are included in the folders.

@@ -1,6 +1,6 @@
 # ML-DL-Projects
 
-Genre Classifier
+## Genre Classifier
 
 In this project I have scrapped data off the Billboard music charts using a library called billboard, specifically designed for this purpose.
 I extracted the top songs in each genre from Billboard charts.
@@ -12,7 +12,7 @@ To feed into the classifier, I had to create tuples with lyrics and the associat
 The classifier was trained on several genre's and at the end I could input lyrics of a song and let the classifier predict it's genre with decent accuracy.
 
 
-Edge Detection
+## Edge Detection
 
 It takes an input image and converts it into an array.
 It then uses a matrix (kernel) that is multiplied across the array that represents the image (convolve2d).
@@ -20,7 +20,7 @@ This kernel highlights the edges of the image.
 The image has been greyscaled and grad biases have been added to amplify the visibility of the edges.
 
 
-EDA on Datasets
+## EDA on Datasets
 
 I have performed Exploratory Data Analysis on Stock Market and Zomato datasets.
 Graphs for visualization are included in the folders.
